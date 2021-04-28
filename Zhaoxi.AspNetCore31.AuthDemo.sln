@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zhaoxi.AspNetCore31.AuthDemo", "Zhaoxi.AspNetCore31.AuthDemo\Zhaoxi.AspNetCore31.AuthDemo.csproj", "{C2868DD8-09A3-4984-8BFE-CE77E81D3259}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zhaoxi.AspNetCore31.AuthenticationCenter", "Zhaoxi.AspNetCore31.AuthenticationCenter\Zhaoxi.AspNetCore31.AuthenticationCenter.csproj", "{E0A91734-E648-48B0-AD02-BD6F14A0275A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2868DD8-09A3-4984-8BFE-CE77E81D3259}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2868DD8-09A3-4984-8BFE-CE77E81D3259}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2868DD8-09A3-4984-8BFE-CE77E81D3259}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2868DD8-09A3-4984-8BFE-CE77E81D3259}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0A91734-E648-48B0-AD02-BD6F14A0275A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0A91734-E648-48B0-AD02-BD6F14A0275A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0A91734-E648-48B0-AD02-BD6F14A0275A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0A91734-E648-48B0-AD02-BD6F14A0275A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D53CA1B-1AD9-4FB1-8FCB-D1F54D644A8E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,105 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\BaiduNetdiskDownload\\架构1期\\20200517Architect01Course039JWT\\Zhaoxi.AspNetCore31.AuthDemo\\Zhaoxi.AspNetCore31.AuthDemo\\Zhaoxi.AspNetCore31.AuthDemo.csproj": {}
+  },
+  "projects": {
+    "D:\\BaiduNetdiskDownload\\架构1期\\20200517Architect01Course039JWT\\Zhaoxi.AspNetCore31.AuthDemo\\Zhaoxi.AspNetCore31.AuthDemo\\Zhaoxi.AspNetCore31.AuthDemo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BaiduNetdiskDownload\\架构1期\\20200517Architect01Course039JWT\\Zhaoxi.AspNetCore31.AuthDemo\\Zhaoxi.AspNetCore31.AuthDemo\\Zhaoxi.AspNetCore31.AuthDemo.csproj",
+        "projectName": "Zhaoxi.AspNetCore31.AuthDemo",
+        "projectPath": "D:\\BaiduNetdiskDownload\\架构1期\\20200517Architect01Course039JWT\\Zhaoxi.AspNetCore31.AuthDemo\\Zhaoxi.AspNetCore31.AuthDemo\\Zhaoxi.AspNetCore31.AuthDemo.csproj",
+        "packagesPath": "C:\\Users\\BRH201\\.nuget\\packages\\",
+        "outputPath": "D:\\BaiduNetdiskDownload\\架构1期\\20200517Architect01Course039JWT\\Zhaoxi.AspNetCore31.AuthDemo\\Zhaoxi.AspNetCore31.AuthDemo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\BRH201\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "IdentityModel": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.Extensions.Caching.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.Extensions.Caching.Memory": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.Extensions.Caching.Redis": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.13, 3.1.13]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
